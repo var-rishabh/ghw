@@ -1,2 +1,2 @@
 > ### Hey Computer, What’s that?
-> ### An OpenCV project.
+> An OpenCV project.
